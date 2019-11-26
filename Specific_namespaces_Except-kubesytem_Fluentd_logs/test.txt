@@ -1,0 +1,4 @@
+splunk_hec_token=c7a27229-c9e8-43eb-b2e7-926712ef0e84
+splunk_hec_host=35.223.92.245
+splunk_hec_index=test
+select_namespace=/var/log/containers/**_qa_**.log,/var/log/containers/**_dev_**.log
